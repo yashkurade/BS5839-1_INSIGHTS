@@ -1,6 +1,6 @@
-# My BS5839-1 Journey as a GET at JCI
+# My BS5839-1 Journey
 
-This repository documents my hands-on learning and reflections while studying **BS5839-1 fire detection and alarm systems** during my time as a Graduate Engineer Trainee (GET) at JCI.  
+This repository documents my hands-on learning and reflections while studying **BS5839-1 fire detection and alarm systems**
 
 It captures my personal observations, technical insights, and practical experience gained from **training sessions and AutoCAD exercises**, where I practiced designing layouts and simulating device placements.
 
@@ -39,3 +39,4 @@ This repository serves multiple purposes:
 ---
 
 *This repository represents my personal learning experience. It is intended as a training and reference resource and does not replace the official BS5839-1 standard.*
+
